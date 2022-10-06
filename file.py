@@ -16,3 +16,6 @@ if n==1:
     print(sum(sorted(a)) - max(a))
 else:
     print(a1*m1 + a2*m2 + a3*m3)
+#KIT C E
+
+print(1+1+1+1)
